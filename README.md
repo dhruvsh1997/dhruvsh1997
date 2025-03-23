@@ -88,7 +88,7 @@
   <a href="https://www.linkedin.com/in/dhruvsharma1997/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-📬 **Email:** _Reach out for collaborations and AI research discussions!_
+📬 **Email:** _Reach out for collaborations and AI research discussions!_ -> <a href="#">dhruvsh1997@gmail.com</a>
 
 ---
 

@@ -17,15 +17,21 @@
 ## 📊 **Dashboard Overview**
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=dhruvsh1997&show_icons=true&theme=vision-friendly-dark" /></td>
-    <td><img src="https://streak-stats.demolab.com/?user=dhruvsh1997&theme=vision-friendly-dark" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=dhruvsh1997&show_icons=true&theme=dark" /></td>
+    <td><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" /></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvsh1997&theme=vision-friendly-dark" /></td>
+    <td colspan="2" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvsh1997&theme=dark" /></td>
   </tr>
 </table>
-
----
+<br>-------------------------------------------------------------------------------------------------------------------
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+<br>---
 
 ## 🔹 **About Me**
 - 🎓 **AI & Machine Learning Specialist with expertise in Generative AI, Agentic AI, and MLOps**

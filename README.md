@@ -1,95 +1,73 @@
-<h1 align="center">Hi there, I'm Dhruv Sharma 👋</h1>
+# Dhruv Sharma
 
-<p align="center">
-  🚀 <strong>AI Engineer | Machine Learning | Generative AI | MLOps | Deep Learning | IoT | Agentic AI</strong>  
-</p>
+## 🚀 AI | Machine Learning | MLOps | Generative AI | Computer Vision
 
-<p align="center">
-  📍 <strong>AI Researcher & Developer</strong> specializing in cutting-edge AI-driven solutions, NLP, Computer Vision, and scalable MLOps pipelines.
-</p>
+### About Me
+With a strong background in **AI, Machine Learning (ML), MLOps, Generative AI, and Computer Vision**, I specialize in developing cutting-edge AI-driven solutions that integrate **advanced automation, NLP, computer vision, and deep learning** across multiple domains. My work spans **AI research, enterprise AI applications, and scalable MLOps pipelines**, leveraging state-of-the-art tools and frameworks such as **Langchain, Langraph, Stable Diffusion, BLIP2, Hugging Face, YOLO, WhisperX, and T5**.
 
----
-
-## 📊 **Dashboard Overview**
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=dhruvsh1997&show_icons=true&theme=dark" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvsh1997&theme=dark" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvsh1997&theme=dark" /></td>
-  </tr>
-</table>
+🔹 Passionate about **building intelligent, scalable, and production-ready AI applications** that drive real-world impact.  
+🔹 Strong foundation in **software engineering, backend development (Django, DRF, Celery), and AI-driven task automation**.
 
 ---
 
-## 🔹 **About Me**
-- 🎓 **AI & Machine Learning Specialist with expertise in Generative AI, Agentic AI, and MLOps**
-- 💻 Skilled in **Python, Django, Flask, FastAPI, LangChain, Hugging Face, YOLO, Stable Diffusion, BLIP2, WhisperX, T5**
-- 🚀 Experience in **Developing AI-Powered Chatbots, NLP Applications, and Computer Vision Systems**
-- 📈 Expertise in **AI Model Deployment, Cloud-based ML Pipelines (AWS, GCP, Azure), MLflow, CI/CD, and Docker**
-- 🛠 Passionate about **AI-powered automation, data security, and enterprise AI integration**
-- 📚 Always learning & building **scalable AI and backend solutions with real-world impact**  
+## 🔥 Featured Projects
+
+### **Agentic AI-Based Advanced Self-RAG Chatbot** 🧠
+- Developed using **Langchain, Langraph, MLflow, and Django**.
+- Handles **text, images, flowcharts, and tables** in PDFs.
+- Integrated **web scraping with Selenium** to extract real-time data from referenced URLs.
+- Utilized **Self-RAG (Retrieval-Augmented Generation)** for intelligent response synthesis.
+
+### **Generative AI Models: Text-to-Image & Image Captioning** 🎨
+- Built **Text-to-Image** generation models using **Stable Diffusion, Pix2Pix**, and transformer-based architectures.
+- Developed **Image Captioning** using **BLIP2 and other vision-language models**, allowing AI to describe images with contextual understanding.
+
+### **Meeting Video Processing & Analytics** 📹
+- Built an AI-driven meeting analytics system using:
+  - **YOLO for face detection**
+  - **WhisperX for transcripts**
+  - **T5 for summarization**
+  - **Llama 3.3 for context analysis**
+- Integrated **emotion and tone detection** for sentiment analysis.
+- Used **Django, DRF, Celery**, and **Google Cloud API** for automation & structured report generation.
+
+### **IoT Data Simulation & Attack Prediction** 🌍
+- Created **IoT data generation & attack classification** system using **SimPy & MQTT**.
+- Trained a **Random Forest model** with hyperparameter tuning for IoT security.
+- Integrated with **Django & Streamlit** for an interactive UI.
 
 ---
 
-## 🏆 **Key AI Projects & Contributions**
-### 1️⃣ **Agentic AI-Based Self-RAG Chatbot with Role-Based Authentication**
-- Developed an **Advanced Self-Retrieval-Augmented Generation (Self-RAG) chatbot** using **LangChain, Langraph, MLflow, and Django**.
-- Supports **multi-modal query handling** (text, images, tables, flowcharts) extracted from PDFs.
-- Integrated **web scraping (Selenium)** to retrieve real-time referenced data from URLs.
-- Implemented **Role-Based Access Control (RBAC)** for user authentication and document access.
+## 🛠️ Skills & Technologies
 
-### 2️⃣ **Generative AI Models for Text-to-Image and Image Captioning**
-- Built **Text-to-Image Generation models** with **Stable Diffusion, Pix2Pix, and Transformer-based architectures**.
-- Developed an **AI-driven Image Captioning system** using **BLIP2 and vision-language models**.
-- Enabled **context-aware image descriptions** with advanced **multi-modal learning techniques**.
+### **AI & ML**
+- Machine Learning, Deep Learning, Computer Vision
+- Generative AI (Stable Diffusion, BLIP2, T5, GPT, Llama)
+- Langchain, Langraph, Hugging Face
+- NLP, Self-RAG, Image Captioning, Speech Recognition
 
-### 3️⃣ **Meeting Video Processing & AI-Based Report Generation**
-- Created an AI-powered **meeting analytics system** using **YOLO (face detection), WhisperX (transcription), T5 (summarization), and Llama 3.3 (context analysis)**.
-- Implemented **emotion and sentiment detection** for assessing speaker tone.
-- Automated **report generation and delivery** via Google Cloud API.
-- Built with **Django, DRF, Celery for background processing, and webhooks for API integrations**.
+### **MLOps & Deployment**
+- **MLflow** for experiment tracking & model deployment
+- **GitHub Actions, Docker, Celery** for CI/CD & automation
+- Cloud deployment (**Google Cloud, AWS, Azure**)
 
-### 4️⃣ **IoT & Cybersecurity AI Models**
-- Developed an **IoT attack detection model** using **Random Forest & MLflow**, trained on real-world IoT attack datasets.
-- Implemented **SimPy-based IoT data generation** and MQTT simulation for testing AI-driven threat prediction models.
-- Built an **AI-driven anomaly detection system** to monitor cybersecurity threats in IoT networks.
+### **Backend & Web Development**
+- **Django, DRF, Celery, Streamlit**
+- **Web Scraping (Selenium, BeautifulSoup)**
+- API Development, Task Automation
 
-### 5️⃣ **AI-Powered File Transfer System (Trans4FL)**
-- Built a **Secure AI-driven file transfer system** using **RSA encryption, SQLite, and a node-to-node architecture**.
-- Enabled **real-time encrypted file sharing between authenticated users** with active sessions.
-- Designed for **scalable peer-to-peer file transfers with AI-based security enhancements**.
+### **Other Skills**
+- **PostgreSQL, SQLite** (Database Management)
+- **Cybersecurity** (Minimal knowledge but growing)
+- **Git, GitHub, Linux (Ubuntu)**
 
 ---
 
-## 🛠 **Tech Stack & Tools**
-| **Category** | **Technologies** |
-|-------------|-----------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Web Frameworks** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **AI & ML** | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9900?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge) ![YOLO](https://img.shields.io/badge/YOLO-red?style=for-the-badge) ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-purple?style=for-the-badge) |
-| **Data Processing** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
-| **MLOps & Deployment** | ![MLflow](https://img.shields.io/badge/MLflow-02569B?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) |
+## 📬 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/dhruvsh1997)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhruvsharma1997/)  
 
 ---
 
-## 📊 **GitHub Contribution Activity**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvsh1997&theme=react-dark&hide_border=true" alt="Dhruv's Activity Graph" />
-</p>
+🚀 **Let's build the future of AI together!**
 
----
-
-## 📫 **Connect with Me**
-<p align="center">
-  <a href="https://github.com/dhruvsh1997"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/dhruvsharma1997/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-📬 **Email:** _Reach out for collaborations and AI research discussions!_ -> <a href="#">dhruvsh1997@gmail.com</a>
-
----
-
-🎯 _"Building AI that transforms industries!"_ 🚀

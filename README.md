@@ -1,13 +1,10 @@
 <h1 align="center">Hi there, I'm Dhruv Sharma 👋</h1>
-
 <p align="center">
-  🚀 <strong>AI Engineer | Machine Learning | Generative AI | MLOps | Deep Learning | IoT | Agentic AI</strong>  
+  🚀 <strong>AI Engineer | Machine Learning | Generative AI | MLOps | Deep Learning | IoT | Agentic AI | LLM | CI/CD </strong>  
 </p>
-
 <p align="center">
   📍 <strong>AI Researcher & Developer</strong> specializing in cutting-edge AI-driven solutions, NLP, Computer Vision, and scalable MLOps pipelines.
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruvsh1997&color=blueviolet" alt="Profile Views" />
 </p>

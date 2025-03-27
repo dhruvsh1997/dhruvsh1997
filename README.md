@@ -1,73 +1,98 @@
-# Dhruv Sharma
+<h1 align="center">Hi there, I'm Dhruv Sharma 👋</h1>
 
-## 🚀 AI | Machine Learning | MLOps | Generative AI | Computer Vision
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Machine+Learning+Specialist;Generative+AI+%7C+MLOps+%7C+Deep+Learning;Innovating+AI-Driven+Solutions+%F0%9F%93%A6" alt="Typing SVG" />
+</p>
 
-### About Me
-With a strong background in **AI, Machine Learning (ML), MLOps, Generative AI, and Computer Vision**, I specialize in developing cutting-edge AI-driven solutions that integrate **advanced automation, NLP, computer vision, and deep learning** across multiple domains. My work spans **AI research, enterprise AI applications, and scalable MLOps pipelines**, leveraging state-of-the-art tools and frameworks such as **Langchain, Langraph, Stable Diffusion, BLIP2, Hugging Face, YOLO, WhisperX, and T5**.
-
-🔹 Passionate about **building intelligent, scalable, and production-ready AI applications** that drive real-world impact.  
-🔹 Strong foundation in **software engineering, backend development (Django, DRF, Celery), and AI-driven task automation**.
-
----
-
-## 🔥 Featured Projects
-
-### **Agentic AI-Based Advanced Self-RAG Chatbot** 🧠
-- Developed using **Langchain, Langraph, MLflow, and Django**.
-- Handles **text, images, flowcharts, and tables** in PDFs.
-- Integrated **web scraping with Selenium** to extract real-time data from referenced URLs.
-- Utilized **Self-RAG (Retrieval-Augmented Generation)** for intelligent response synthesis.
-
-### **Generative AI Models: Text-to-Image & Image Captioning** 🎨
-- Built **Text-to-Image** generation models using **Stable Diffusion, Pix2Pix**, and transformer-based architectures.
-- Developed **Image Captioning** using **BLIP2 and other vision-language models**, allowing AI to describe images with contextual understanding.
-
-### **Meeting Video Processing & Analytics** 📹
-- Built an AI-driven meeting analytics system using:
-  - **YOLO for face detection**
-  - **WhisperX for transcripts**
-  - **T5 for summarization**
-  - **Llama 3.3 for context analysis**
-- Integrated **emotion and tone detection** for sentiment analysis.
-- Used **Django, DRF, Celery**, and **Google Cloud API** for automation & structured report generation.
-
-### **IoT Data Simulation & Attack Prediction** 🌍
-- Created **IoT data generation & attack classification** system using **SimPy & MQTT**.
-- Trained a **Random Forest model** with hyperparameter tuning for IoT security.
-- Integrated with **Django & Streamlit** for an interactive UI.
+<p align="center">
+  📍 <strong>AI Researcher & Developer</strong> | Crafting Intelligent Solutions at the Intersection of AI, Computer Vision, and MLOps
+</p>
 
 ---
 
-## 🛠️ Skills & Technologies
-
-### **AI & ML**
-- Machine Learning, Deep Learning, Computer Vision
-- Generative AI (Stable Diffusion, BLIP2, T5, GPT, Llama)
-- Langchain, Langraph, Hugging Face
-- NLP, Self-RAG, Image Captioning, Speech Recognition
-
-### **MLOps & Deployment**
-- **MLflow** for experiment tracking & model deployment
-- **GitHub Actions, Docker, Celery** for CI/CD & automation
-- Cloud deployment (**Google Cloud, AWS, Azure**)
-
-### **Backend & Web Development**
-- **Django, DRF, Celery, Streamlit**
-- **Web Scraping (Selenium, BeautifulSoup)**
-- API Development, Task Automation
-
-### **Other Skills**
-- **PostgreSQL, SQLite** (Database Management)
-- **Cybersecurity** (Minimal knowledge but growing)
-- **Git, GitHub, Linux (Ubuntu)**
+## 🚀 **Professional Snapshot**
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=dhruvsh1997&show_icons=true&theme=vision-friendly-dark" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvsh1997&theme=vision-friendly-dark" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvsh1997&theme=vision-friendly-dark" /></td>
+  </tr>
+</table>
 
 ---
 
-## 📬 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/dhruvsh1997)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhruvsharma1997/)  
+## 🔬 **Technical Expertise**
+- 🧠 **Core Competencies:**
+  - Generative AI & Agentic AI Development
+  - Computer Vision and Multi-Modal AI Systems
+  - MLOps and AI Model Deployment
+  - Web Scraping and Data Extraction
+  - Distributed Computing with Django Celery
+
+- 💻 **Technology Stack:**
+  - **Languages:** Python
+  - **Web Frameworks:** Django, Flask, Streamlit
+  - **AI/ML Libraries:** LangChain, Hugging Face, OpenCV
+  - **Computer Vision:** YOLO, Stable Diffusion, BLIP2
+  - **MLOps:** MLflow, Docker, Cloud Platforms (AWS, GCP)
+
+## 🛡️ **Cybersecurity Insights**
+- Basic understanding of IoT security and threat detection
+- Implemented foundational anomaly detection models
+- Continuous learning in cybersecurity best practices
 
 ---
 
-🚀 **Let's build the future of AI together!**
+## 🏆 **Highlighted Projects**
 
+### 1️⃣ **Agentic AI Self-RAG Chatbot**
+- Advanced Self-Retrieval-Augmented Generation chatbot
+- Multi-modal query handling with LangChain and Django
+- Role-Based Access Control (RBAC)
+
+### 2️⃣ **Computer Vision & Generative AI**
+- Text-to-Image Generation with Stable Diffusion
+- AI-driven Image Captioning using BLIP2
+- Advanced Multi-Modal Learning Techniques
+
+### 3️⃣ **Web Scraping & Data Extraction**
+- Developed intelligent web scraping tools with Selenium
+- Real-time data extraction and preprocessing
+- Integration with AI models for enhanced insights
+
+### 4️⃣ **Distributed Computing with Django Celery**
+- Implemented background task processing
+- Scalable distributed computing solutions
+- Asynchronous job management for complex AI workflows
+
+---
+
+## 🛠 **Technology Ecosystem**
+| **Domain** | **Technologies** |
+|-----------|-----------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Web Frameworks** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
+| **AI & Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-red?style=for-the-badge) ![Stable%20Diffusion](https://img.shields.io/badge/Stable%20Diffusion-purple?style=for-the-badge) |
+| **MLOps** | ![MLflow](https://img.shields.io/badge/MLflow-02569B?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+
+---
+
+## 📊 **GitHub Contribution Landscape**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvsh1997&theme=react-dark&bg_color=20232a&hide_border=true&line=3498db&point=ffffff" alt="Dhruv's Contribution Graph" />
+</p>
+
+---
+
+## 📫 **Let's Connect**
+<p align="center">
+  <a href="https://github.com/dhruvsh1997"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dhruvsharma1997/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dhruvsh1997@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+🎯 _"Transforming Ideas into Intelligent Solutions"_ 🚀

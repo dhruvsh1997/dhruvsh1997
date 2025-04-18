@@ -29,7 +29,7 @@
 ---
 ## 🔹 **About Me**
 - 🎓 **AI & Machine Learning Specialist with expertise in Generative AI, Agentic AI, and MLOps**
-- 💻 Skilled in **Python, Django, Flask, Streamlit, LangChain, Hugging Face, YOLO, Stable Diffusion, BLIP2, WhisperX, T5**
+- 💻 Skilled in **Python, Django, Flask, Streamlit, LangChain, Hugging Face, YOLO, Stable Diffusion, BLIPs2, WhisperX, T5**
 - 🚀 Experience in **Developing AI-Powered Chatbots, NLP Applications, and Advanced Computer Vision Systems**
 - 📈 Expertise in **AI Model Deployment, Cloud-based ML Pipelines (AWS, GCP, Azure), MLflow, CI/CD, and Docker**
 - 🛠 Passionate about **AI-powered automation, intelligent system design, and enterprise AI integration**

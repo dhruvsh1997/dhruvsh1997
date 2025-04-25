@@ -22,9 +22,9 @@
   </tr>
   <tr>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithRahul1&theme=dark" /></td>
+<!--     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvsh1997&theme=dark" /></td> -->
 <!--     <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=sunset-gradient" alt="GitHub Streak" /></a></td> -->
-<!--     <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=dark" /></td> -->
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=dark" /></td>
   </tr>
 </table>
 

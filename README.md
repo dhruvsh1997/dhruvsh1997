@@ -15,7 +15,7 @@
 <table align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=dhruvsh1997&show_icons=true&theme=dark" /></td>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=sunset-gradient" alt="GitHub Streak" /></a>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=sunset-gradient" alt="GitHub Streak" /></a></td>
 <!--     <td><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=dark" /></td> -->
   </tr>
   <tr>
